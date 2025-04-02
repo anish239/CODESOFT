@@ -16,7 +16,7 @@ The dataset files (`train_data.txt`, `test_data.txt`, `test_data_solution.txt`) 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YourGitHubUsername/CODSOFT.git
+    git clone[https://github.com/anish239/CODESOFT.git]
     cd CODSOFT
     ```
 
