@@ -16,11 +16,9 @@ The dataset files (`train_data.txt`, `test_data.txt`, `test_data_solution.txt`) 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YourGitHubUsername/CODSOFT.git
+    git clone https://github.com/anish239/CODESOFT.git
     cd CODSOFT
     ```
-
-    _(Replace the URL with your actual repository URL)_
 
 2.  **Download the data:** Obtain the `train_data.txt`, `test_data.txt`, and `test_data_solution.txt` files from the link provided in the **Data** section above.
 
