@@ -1,6 +1,6 @@
 # Task 2: Credit Card Fraud Detection - CodSoft Internship
 
-This project was completed as part of the CodSoft Machine Learning Internship (July 2024). The goal of this task is to build and evaluate machine learning models capable of detecting fraudulent credit card transactions using a real-world dataset.
+This project was completed as part of the CodSoft Machine Learning Internship (April 2025). The goal of this task is to build and evaluate machine learning models capable of detecting fraudulent credit card transactions using a real-world dataset.
 
 ## Objective
 

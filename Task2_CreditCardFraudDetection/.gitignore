@@ -1,0 +1,10 @@
+# Ignore virtual environment folders
+venv/
+*/__pycache__/
+
+# Ignore specific large data files if needed (though spam.csv is likely small enough)
+# large_dataset.csv
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
